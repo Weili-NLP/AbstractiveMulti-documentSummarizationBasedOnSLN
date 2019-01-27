@@ -1,0 +1,11 @@
+When the software was downloaded, computer users infected other files on their hard drive.
+The Melissa macro or W97M Melissa virus spreads via infected e-mail and attacks computers loaded with Microsoft's widely used or Computer Carnegie Mellon's Department of Defense-funded computer security team.
+If an infected program was sent in an e-mail, the virus was passed on to the recipient.
+Melissa typically enters a computer hidden in a Microsoft Word 97 or Word 2000 file attached to an electronic mail message.
+It generally gets into your computer by way of an attachment to an e-mail.
+If the infected machine had a copy of Microsoft's Outlook e-mail program, Melissa would send a copy of itself to the first 50 people in the Outlook address book.
+Instead, Smith took two viruses, one of which came from VicodinES, and combined them with another virus to create Melissa, she said.
+as combines elements of both a computer virus spreading from file to file and a worm program spreading from computer to computer over a network.
+David L. Smith, 30, of Aberdeen, N.J., was arrested Friday and charged with originating the destructive Melissa, which infected hundreds of thousands of computers and swamped hundreds of companies e-mail systems.
+Since the Melissa virus lurks inside a Microsoft Word document, Smith hoped he could identify its author by reading Melissa's serial number.
+He wrote the Melissa virus in a separate file, said Richard Smith.

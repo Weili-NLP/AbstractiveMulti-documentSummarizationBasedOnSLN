@@ -1,0 +1,12 @@
+When the software was downloaded, computer users infected other files on their hard drive.
+The Melissa macro or W97M Melissa virus spreads via infected e-mail and attacks computers loaded with Microsoft's widely used or Computer Carnegie Mellon's Department of Defense-funded computer security team.
+Melissa typically enters a computer hidden in a Microsoft Word 97 or Word 2000 file attached to an electronic mail message.
+If an infected program was sent in an e-mail, the virus was passed on to the recipient.
+Instead, Smith took two viruses, one of which came from VicodinES, and combined them with another virus to create Melissa, she said.
+It generally gets into your computer by way of an attachment to an e-mail.
+If the infected machine had a copy of Microsoft's Outlook e-mail program, Melissa would send a copy of itself to the first 50 people in the Outlook address book.
+Computer experts said Chen might not be charged because he did not intend to spread the virus.
+New viruses are being created all the time.
+I use Symantec's Norton Antivirus for both my Windows and Macintosh computers.
+as combines elements of both a computer virus spreading from file to file and a worm program spreading from computer to computer over a network.
+Another maker of virus protection software, Central Command Inc., said the W32/Kriz virus is more destructive than the Chernobyl virus that recently attacked 300,000 computers in Asia and the Middle East.
